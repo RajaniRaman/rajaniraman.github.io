@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wim Vanduffel | Rajani Raman</title>
+    <link>/authors/wim-vanduffel/</link>
+      <atom:link href="/authors/wim-vanduffel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wim Vanduffel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Wim Vanduffel</title>
+      <link>/authors/wim-vanduffel/</link>
+    </image>
+    
+    <item>
+      <title>Electrical stimulation of the macaque ventral tegmental area drives category-selective learning without attention</title>
+      <link>/publication/10-1016-j-neuron-2021-02-013/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/10-1016-j-neuron-2021-02-013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

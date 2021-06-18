@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandip Sarkar | Rajani Raman</title>
+    <link>/authors/sandip-sarkar/</link>
+      <atom:link href="/authors/sandip-sarkar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandip Sarkar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sandip Sarkar</title>
+      <link>/authors/sandip-sarkar/</link>
+    </image>
+    
+    <item>
+      <title>Significance of Natural Scene Statistics in Understanding the Anisotropies of Perceptual Filling-in at the Blind Spot</title>
+      <link>/publication/scientifc_reports/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/scientifc_reports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Coding: A Possible Explanation of Filling-In at the Blind Spot</title>
+      <link>/publication/plosone/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/plosone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
