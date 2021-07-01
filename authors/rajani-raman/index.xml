@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rajani Raman</title>
-    <link>/authors/rajani-raman/</link>
-      <atom:link href="/authors/rajani-raman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rajaniraman.github.io/authors/rajani-raman/</link>
+      <atom:link href="https://rajaniraman.github.io/authors/rajani-raman/index.xml" rel="self" type="application/rss+xml" />
     <description>Rajani Raman</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://rajaniraman.github.io/img/icon-192.png</url>
       <title>Rajani Raman</title>
-      <link>/authors/rajani-raman/</link>
+      <link>https://rajaniraman.github.io/authors/rajani-raman/</link>
     </image>
     
     <item>
       <title>Electrical stimulation of the macaque ventral tegmental area drives category-selective learning without attention</title>
-      <link>/publication/10-1016-j-neuron-2021-02-013/</link>
+      <link>https://rajaniraman.github.io/publication/10-1016-j-neuron-2021-02-013/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/10-1016-j-neuron-2021-02-013/</guid>
+      <guid>https://rajaniraman.github.io/publication/10-1016-j-neuron-2021-02-013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutional neural networks explain tuning properties of anterior, but not middle, face-processing areas in macaque inferotemporal cortex</title>
-      <link>/publication/commbio/</link>
+      <link>https://rajaniraman.github.io/publication/commbio/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/commbio/</guid>
+      <guid>https://rajaniraman.github.io/publication/commbio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Significance of Natural Scene Statistics in Understanding the Anisotropies of Perceptual Filling-in at the Blind Spot</title>
-      <link>/publication/scientifc_reports/</link>
+      <link>https://rajaniraman.github.io/publication/scientifc_reports/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/scientifc_reports/</guid>
+      <guid>https://rajaniraman.github.io/publication/scientifc_reports/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictive Coding: A Possible Explanation of Filling-In at the Blind Spot</title>
-      <link>/publication/plosone/</link>
+      <link>https://rajaniraman.github.io/publication/plosone/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/plosone/</guid>
+      <guid>https://rajaniraman.github.io/publication/plosone/</guid>
       <description></description>
     </item>
     

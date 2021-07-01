@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sjoerd R. Murris | Rajani Raman</title>
-    <link>/authors/sjoerd-r.-murris/</link>
-      <atom:link href="/authors/sjoerd-r.-murris/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rajaniraman.github.io/authors/sjoerd-r.-murris/</link>
+      <atom:link href="https://rajaniraman.github.io/authors/sjoerd-r.-murris/index.xml" rel="self" type="application/rss+xml" />
     <description>Sjoerd R. Murris</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://rajaniraman.github.io/img/icon-192.png</url>
       <title>Sjoerd R. Murris</title>
-      <link>/authors/sjoerd-r.-murris/</link>
+      <link>https://rajaniraman.github.io/authors/sjoerd-r.-murris/</link>
     </image>
     
     <item>
       <title>Electrical stimulation of the macaque ventral tegmental area drives category-selective learning without attention</title>
-      <link>/publication/10-1016-j-neuron-2021-02-013/</link>
+      <link>https://rajaniraman.github.io/publication/10-1016-j-neuron-2021-02-013/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/10-1016-j-neuron-2021-02-013/</guid>
+      <guid>https://rajaniraman.github.io/publication/10-1016-j-neuron-2021-02-013/</guid>
       <description></description>
     </item>
     
